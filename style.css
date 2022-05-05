@@ -1,0 +1,13 @@
+/* CSS Document */
+
+html,body {
+	display: grid;
+	place-items: center;
+	margin: auto;
+	height: 500px;
+	padding: 20px;
+}
+h1{
+
+}
+
